@@ -1,0 +1,15 @@
+/root/dev/csharp/exercism-csharp-course/ExercismCSharpTasks/bin/Debug/net8.0/ExercismCSharpTasks
+/root/dev/csharp/exercism-csharp-course/ExercismCSharpTasks/bin/Debug/net8.0/ExercismCSharpTasks.deps.json
+/root/dev/csharp/exercism-csharp-course/ExercismCSharpTasks/bin/Debug/net8.0/ExercismCSharpTasks.runtimeconfig.json
+/root/dev/csharp/exercism-csharp-course/ExercismCSharpTasks/bin/Debug/net8.0/ExercismCSharpTasks.dll
+/root/dev/csharp/exercism-csharp-course/ExercismCSharpTasks/bin/Debug/net8.0/ExercismCSharpTasks.pdb
+/root/dev/csharp/exercism-csharp-course/ExercismCSharpTasks/obj/Debug/net8.0/ExercismCSharpTasks.GeneratedMSBuildEditorConfig.editorconfig
+/root/dev/csharp/exercism-csharp-course/ExercismCSharpTasks/obj/Debug/net8.0/ExercismCSharpTasks.AssemblyInfoInputs.cache
+/root/dev/csharp/exercism-csharp-course/ExercismCSharpTasks/obj/Debug/net8.0/ExercismCSharpTasks.AssemblyInfo.cs
+/root/dev/csharp/exercism-csharp-course/ExercismCSharpTasks/obj/Debug/net8.0/ExercismCSharpTasks.csproj.CoreCompileInputs.cache
+/root/dev/csharp/exercism-csharp-course/ExercismCSharpTasks/obj/Debug/net8.0/ExercismCSharpTasks.sourcelink.json
+/root/dev/csharp/exercism-csharp-course/ExercismCSharpTasks/obj/Debug/net8.0/ExercismCSharpTasks.dll
+/root/dev/csharp/exercism-csharp-course/ExercismCSharpTasks/obj/Debug/net8.0/refint/ExercismCSharpTasks.dll
+/root/dev/csharp/exercism-csharp-course/ExercismCSharpTasks/obj/Debug/net8.0/ExercismCSharpTasks.pdb
+/root/dev/csharp/exercism-csharp-course/ExercismCSharpTasks/obj/Debug/net8.0/ExercismCSharpTasks.genruntimeconfig.cache
+/root/dev/csharp/exercism-csharp-course/ExercismCSharpTasks/obj/Debug/net8.0/ref/ExercismCSharpTasks.dll
