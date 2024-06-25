@@ -1,3 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-// Console.WriteLine("Hello World".SubstringAfter("Hello"));
-Console.WriteLine(PhoneNumber.Analyze("631-502-1234"));
+﻿
+Dominoes.CanChain([(2, 1), (2, 3), (1, 3)]);
